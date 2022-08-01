@@ -1,0 +1,8 @@
+body {margin: 0;}
+a {color:pink; text-decoration:none;}
+h1{font-size: 100px;text-align: center; margin: 5px;
+  border-bottom: 1px gray solid; padding-bottom:30px; margin: 0;}
+ol {border-right: gray 1px solid; width: 300px; margin:0; padding: 20px;
+padding-left: 80px;}
+#grid {display:grid; grid-template-columns: 150px 1fr; }
+#grid div {padding-left: 300px; text-align:right; padding-right:80px;}
